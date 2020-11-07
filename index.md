@@ -1,4 +1,4 @@
-## LinkedIn profile: (https://www.linkedin.com/in/bojana-neskovic)
+## LinkedIn profile: [](https://www.linkedin.com/in/bojana-neskovic)
 
 You can use the [editor on GitHub](https://github.com/bojananeskovic/bojananeskovic.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
