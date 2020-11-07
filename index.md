@@ -1,3 +1,5 @@
 ## Page under construction.
 
-## For more details see my [LinkedIn profile](https://www.linkedin.com/in/bojana-neskovic).
+
+
+## For more details about me see my [LinkedIn profile](https://www.linkedin.com/in/bojana-neskovic).
