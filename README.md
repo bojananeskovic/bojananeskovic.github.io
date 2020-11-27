@@ -1,2 +1,2 @@
 # bojananeskovic.github.io
-Stranica u izradi.
+personal website
