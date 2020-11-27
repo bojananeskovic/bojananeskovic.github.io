@@ -76,7 +76,7 @@ h2 {
 h1::after {
   content: '';
   width: 80px;
-  display: block;
+  display: inline-block;
   background: #fff;
   height: 10px;
   margin: 30px auto;
