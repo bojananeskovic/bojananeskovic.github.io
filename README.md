@@ -1,2 +1,2 @@
 # Personal website
-[link](https://bojananeskovic.github.io/)
+[Click here :)](https://bojananeskovic.github.io/)
