@@ -10,4 +10,4 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=bojananeskovic)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/bojananeskovic/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/bojananeskovic/bojananeskovic.github.io)
