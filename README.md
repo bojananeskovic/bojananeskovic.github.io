@@ -7,3 +7,7 @@
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=bojananeskovic)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/bojananeskovic/Python)
